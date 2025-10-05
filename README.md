@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 # 👨🏻‍💻 Hi, I'm Lester!
-🎓 Junior Computer Science student at the **Polytechnic University of the Philippines** – Sta. Mesa, Manila.<br/>
+🎓 Senior Computer Science student at the **Polytechnic University of the Philippines** – Sta. Mesa, Manila.<br/>
 💻 Aspiring full-stack web developer passionate about building innovative and impactful solutions.<br/>
 🚀 Dedicated to continuous learning and applying new skills in real-world projects.<br/>
 🐍 Currently exploring **Django**, a Python-based web framework.<br/>
