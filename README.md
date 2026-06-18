@@ -4,7 +4,6 @@
 🎓 Senior Computer Science student at the **Polytechnic University of the Philippines** – Sta. Mesa, Manila.<br/>
 💻 Aspiring full-stack web developer passionate about building innovative and impactful solutions.<br/>
 🚀 Dedicated to continuous learning and applying new skills in real-world projects.<br/>
-🐍 Currently exploring **Django**, a Python-based web framework.<br/>
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lstr.osana18)
